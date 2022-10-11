@@ -8,6 +8,10 @@ ul {
   padding-left: 30px;
 }
 
+.timeIs {
+  display: block;
+}
+
 .board-row:after {
   clear: both;
   content: "";
